@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SanFrancisco2.kml</name>
+	<StyleMap id="failed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+		<LineStyle>
+			<color>ff005500</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="failed1">
+		<LineStyle>
+			<color>ff005500</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Stratus Layer Effect of Nonesense</name>
+		<description><![CDATA[<ul><li>Nonesemnse Value <i>Citation</i></lI></ul>]]></description>
+		<styleUrl>#failed</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-122.3950791740624,37.82359336007996,0 -122.4057440609555,37.83679013719009,0 -122.4270648526676,37.8431078355444,0 -122.4408880766374,37.83498451319397,0 -122.4213649815964,37.83676171708277,0 -122.4345114281285,37.83026896424586,0 -122.4143971455856,37.83196075296147,0 -122.4271765268762,37.82400478206944,0 -122.4063388789727,37.82587207003509,0 -122.4219160796932,37.81893005087182,0 -122.4002029205793,37.81907136415484,0 -122.4179384159854,37.81364784857151,0 -122.3939679007459,37.81306826405105,0 -122.3950791740624,37.82359336007996,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

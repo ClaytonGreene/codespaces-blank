@@ -1,30 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="scuba:12/12/2022 3:03:53 PM">
-	<name>Sudan World Map Credit to:</name>
-	<Placemark>
-		<Style>
-			<LineStyle>
-				<color>ff00ffff</color>
-				<colorMode>normal</colorMode>
-				<width>5</width>
-			</LineStyle>
-		</Style>
-		<LineString id="0">
-			<tessellate>1</tessellate>
-			<coordinates>
-				0,0,0 0,0,0 
-			</coordinates>
-		</LineString>
-	</Placemark>
+	<name>Sudan World Map Credit to: Bounty achieved for good sport about telling me who you are. :)</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>28.91728158342244</longitude>
+		<latitude>17.94320190276161</latitude>
+		<altitude>0</altitude>
+		<heading>0.2638103729558981</heading>
+		<tilt>6.190856488247682</tilt>
+		<range>3558293.727565171</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Style id="style">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style2">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style3">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style4">
+		<PolyStyle>
+			<color>ff006400</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style5">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style6">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style7">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style8">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style9">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style10">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style11">
+		<PolyStyle>
+			<color>ff006400</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style12">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style13">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style14">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style15">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="style16">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Placemark id="4245">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ff006400</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id1</styleUrl>
 		<Polygon id="0">
 			<outerBoundaryIs>
 				<LinearRing>
@@ -91,13 +293,9 @@
 	</Placemark>
 	<Placemark id="4249">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id0</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
@@ -109,13 +307,9 @@
 	</Placemark>
 	<Placemark id="4250">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id2</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
@@ -127,13 +321,9 @@
 	</Placemark>
 	<Placemark id="4251">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id3</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
@@ -145,13 +335,9 @@
 	</Placemark>
 	<Placemark id="4252">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id4</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
@@ -163,13 +349,9 @@
 	</Placemark>
 	<Placemark id="4253">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id8</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
@@ -181,13 +363,9 @@
 	</Placemark>
 	<Placemark id="4254">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id7</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
@@ -199,13 +377,9 @@
 	</Placemark>
 	<Placemark id="4255">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id5</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
@@ -217,13 +391,9 @@
 	</Placemark>
 	<Placemark id="4256">
 		<name>Sudan Final Flag</name>
-		<Style>
-			<PolyStyle>
-				<color>ffffffff</color>
-				<fill>1</fill>
-			</PolyStyle>
-		</Style>
+		<styleUrl>#stylemap_id6</styleUrl>
 		<Polygon id="0">
+			<gx:drawOrder>1</gx:drawOrder>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>

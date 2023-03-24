@@ -46,8 +46,6 @@
 				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Style id="failed5">
 		<IconStyle>
@@ -56,8 +54,6 @@
 				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<StyleMap id="failed6">
 		<Pair>
@@ -75,6 +71,26 @@
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<Style id="style">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="style12">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Folder>
 		<name>Temporary Places</name>
 		<open>1</open>
@@ -95,23 +111,6 @@
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-122.4818973219042,37.8277746524991,0</coordinates>
 			</Point>
-		</Placemark>
-		<Placemark>
-			<name>High Intensity Nonesense</name>
-			<description><![CDATA[<p>This is hopefully a p tag</p>]]></description>
-			<styleUrl>#failed</styleUrl>
-			<Polygon>
-				<extrude>1</extrude>
-				<tessellate>1</tessellate>
-				<altitudeMode>relativeToGround</altitudeMode>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							-122.4549979514675,37.82660998524369,20 -122.4601824376883,37.82222813544819,20 -122.4583293611016,37.81846578958721,20 -122.4526933609664,37.81829643961461,20 -122.4454328169021,37.82203738639181,20 -122.4449868746067,37.82658677418809,20 -122.4483371901528,37.82855925343573,20 -122.4549979514675,37.82660998524369,20 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
 		</Placemark>
 		<Placemark>
 			<name>That is the Golden Gate Bridge.</name>
@@ -135,6 +134,23 @@
 					<LinearRing>
 						<coordinates>
 							-122.4045961073508,37.84253924804428,0 -122.4192125372129,37.83328899672858,0 -122.4037243409689,37.82178946855249,0 -122.3855574039275,37.83275575726695,0 -122.3879851361471,37.8453141768334,0 -122.4051140652016,37.85110376038332,0 -122.4287048059588,37.84644464743934,0 -122.4411404622306,37.83961900621243,0 -122.4474509675241,37.83246647476492,0 -122.450596299417,37.82719628200872,0 -122.4501182958461,37.82190418930026,0 -122.4375955062142,37.81754188691396,0 -122.4367319450425,37.82500184577348,0 -122.4376424313073,37.83266526386729,0 -122.4338953854375,37.83868244126811,0 -122.4242076230884,37.84321214850485,0 -122.4142638883258,37.84522417166939,0 -122.4036089011417,37.84606455191287,0 -122.3951301342501,37.84360640784709,0 -122.3918974607335,37.83682584512789,0 -122.3956232635275,37.83026849057262,0 -122.4013102307837,37.82765366672831,0 -122.4071953594767,37.82905255230082,0 -122.4105793649352,37.83341620970326,0 -122.4055685168275,37.83633137269325,0 -122.400082628846,37.83684703228082,0 -122.3994300708296,37.8338354949808,0 -122.4018692344676,37.83183364289967,0 -122.4050506191403,37.83377524607261,0 -122.4061736942225,37.83303244009563,0 -122.4035937999012,37.83117285241649,0 -122.3998978266815,37.83123714365821,0 -122.3971863332571,37.8336056397308,0 -122.3971115046154,37.83737042236631,0 -122.4001127747082,37.8412869139853,0 -122.4045961073508,37.84253924804428,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>High Intensity Nonesense</name>
+			<description><![CDATA[<p>This is hopefully a p tag</p>]]></description>
+			<styleUrl>#failed</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-122.4549979514675,37.82660998524369,20 -122.4601824376883,37.82222813544819,20 -122.4583293611016,37.81846578958721,20 -122.4526933609664,37.81829643961461,20 -122.4454328169021,37.82203738639181,20 -122.4449868746067,37.82658677418809,20 -122.4483371901528,37.82855925343573,20 -122.4549979514675,37.82660998524369,20 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>

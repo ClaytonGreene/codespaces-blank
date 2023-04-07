@@ -8,7 +8,7 @@
 	<Style id="failed00022">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -17,7 +17,7 @@
 	<Style id="failed0002">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -26,7 +26,7 @@
 	<Style id="failed00021">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -35,7 +35,7 @@
 	<Style id="failed00020">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -79,7 +79,7 @@
 	<Style id="failed120011">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -88,7 +88,7 @@
 	<Style id="failed120012">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -97,7 +97,7 @@
 	<Style id="failed12001">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -106,7 +106,7 @@
 	<Style id="failed120010">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -734,7 +734,7 @@
 	<Style id="failed19">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ffffaaaa</color>
@@ -744,7 +744,7 @@
 	<Style id="failed190">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -753,7 +753,7 @@
 	<Style id="failed1904">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -762,7 +762,7 @@
 	<Style id="failed1900">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -771,7 +771,7 @@
 	<Style id="failed1907">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -780,7 +780,7 @@
 	<Style id="failed1901">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -789,7 +789,7 @@
 	<Style id="failed1902">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -798,7 +798,7 @@
 	<Style id="failed1903">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -807,7 +807,7 @@
 	<Style id="failed1906">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -816,7 +816,7 @@
 	<Style id="failed1905">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -833,7 +833,7 @@
 	<Style id="failed276">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -842,7 +842,7 @@
 	<Style id="failed27">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -851,7 +851,7 @@
 	<Style id="failed270">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -860,7 +860,7 @@
 	<Style id="failed271">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -869,7 +869,7 @@
 	<Style id="failed275">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -878,7 +878,7 @@
 	<Style id="failed273">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -887,7 +887,7 @@
 	<Style id="failed274">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -896,7 +896,7 @@
 	<Style id="failed272">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -905,7 +905,7 @@
 	<Style id="failed277">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff00aaaa</color>
@@ -914,7 +914,7 @@
 	<Style id="failed2700">
 		<LineStyle>
 			<color>ff514f45</color>
-			<width>2</width>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ffffaaaa</color>

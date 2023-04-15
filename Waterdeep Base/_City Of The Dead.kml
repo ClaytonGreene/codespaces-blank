@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>_City Of The Dead.kml</name>
+	<StyleMap id="m_ylw-pushpin186">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin270</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl320</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1860">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin171">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin162</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin215">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin104</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin172</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2250">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin173</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin215</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin250">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin204</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin264</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin261</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin155</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin27">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin270">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl32">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl320">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin155">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff626d7b</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin172">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin215">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin264">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin35">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin62">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin104">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1600">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin162">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin173">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin204">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin261">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff626d7b</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>_City Of The Dead</name>
+		<Placemark>
+			<name>Ahghairon&apos;s Statue</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD3</Serial>
+
+<p>Ahghairon's Statue was a large sculpture located within the City of the Dead in Waterdeep.[1]</p>
+
+<p><b>Description</b></p>
+
+<p><b>Location</b></p>
+
+<p>Ahghairon's Statue was located in the central section of the City of the Dead near the entryway.[2]</p>
+
+<p><b>Description</b></p>
+
+<p>Made completely from marble, the tall statue depicted a detailed representation of the bearded wizard Ahghairon as an old man in his prime. The smiling statue stood atop a series of concentric steps and faced west toward the entryway into the City of the Dead with hands outstretched. Torches lit the steps at night.[1]</p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 102. ISBN 0-7869-3693-2.</li>
+<li>2.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 101. ISBN 0-7869-3693-2.</li>
+</ul></p>]]></description>
+			<Camera>
+				<longitude>-80.65174335578169</longitude>
+				<latitude>37.88420883747183</latitude>
+				<altitude>37.53275435554393</altitude>
+				<heading>-12.54025779172026</heading>
+				<tilt>73.59163376917773</tilt>
+				<roll>6.367675761570135</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin48</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65191435774378,37.8845211470824,25.11 -80.65193503140155,37.88451819274174,25.11 -80.65194682343159,37.88450866299703,25.11 -80.651954206822,37.88449799169996,25.11 -80.65195592139472,37.88448453756742,25.11 -80.65194991847773,37.88447326225588,25.11 -80.65193564611559,37.88446316868413,25.11 -80.65191224335172,37.88446120847854,25.11 -80.65189155987491,37.88446831418194,25.11 -80.65188160418388,37.88448342293924,25.11 -80.6518813085554,37.88449887299659,25.11 -80.65188743085014,37.88450850009822,25.11 -80.65189960973616,37.88451735656469,25.11 -80.65191435774378,37.8845211470824,25.11 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Deepwinter Vault</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>B</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD10</Serial>
+
+<p>The Deepwinter Vault was a mausoleum in the City of the Dead in Waterdeep that belonged to the defunct noble Deepwinter family. It was also one of the entrances to the former lair of Artor Morlin, the vampire lord of Waterdeep,[1] and was the reason his subterranean structure was called the Dungeon of the Crypt.[2]</p>
+
+<p><b>Location</b></p>
+
+<p>The City of the Dead was a sprawling walled cemetery on the eastern edge of Waterdeep.[3][4][5][6] The Deepwinter Vault was located in the northern part of the cemetery near the wall that separated the burial grounds from Zendulth Street,[7] set back from the main path by a short walkway.[1]</p>
+
+<p><b>Structure</b></p>
+
+<p>Deepwinter Vault was approximately 90 feet (27 meters) square[6] with two large wooden doors bound in iron in the center of the south wall, atop a wide, shallow staircase of five steps. As of the Year of Wild Magic, 1372 DR, the one-story white marble structure showed signs of age with cracked masonry, lichen stains, and ivy-covered walls. The ivy hid carvings of landscapes covered in deep snow and the doors had broken locks and stood slightly ajar.[1]</p>
+
+
+<p><b>Interior</b></p>
+
+<p>The mausoleum was divided into three sections of equal measure: a forechamber, the Deepwinter crypts, and the Hall of the Patriarch.[6][8]</p>
+
+<p><b>Forechamber</b></p>
+
+<p>The double doors led into a grand chamber the full width of the structure and about 25 feet (7.6 meters) deep.[6][8] Its walls were filled with stone frescoes that revealed scenes of Deepwinter triumphs interspersed with symbols of the church of Auril. At any time of the year, the walls were coated with a thin film of ice and minor icicles hung from the ceiling—the remnants of a magical trap placed on the room in the days when the Deepwinters still thrived—that kept the room temperature at 32 ℉ (0 ℃). Around the perimeter of the room were at least thirty short pillars once used as pedestals for displaying family heirlooms, but by 1372 DR most of them had been vandalized by treasure hunters looking for hidden caches. In the center of the floor was the crest of the Deepwinter family, a snow-capped mountain with a large, stylized snowflake above and to the left of the peak. The only other exit was a narrow door in the center of the north wall.[1]</p>
+
+<p><b>Deepwinter Crypts</b></p>
+<p>The middle third of the mausoleum was filled with individual crypts. A 5‑foot-wide (1.5‑meter) passage led from the forechamber to the Hall of the Patriarch and 10 feet (3 meters) down this corridor were two narrow passages that branched off to the left and right containing the resting places of the Deepwinters.[6][8] The tombs were once sealed with stone plaques marking the name of the noble and their death year in Northreckoning, but by 1372 DR most of the seals were broken and scattered on the floor along with bones from the ransacked tombs.[1][9]</p>
+
+<p><b>Hall of the Patriarch</b></p>
+</p>About 20 feet (6.1 meters) beyond the intersection with the crypt walk was the grand Hall of the Patriarch. The room was about 30 feet (9.1 meters) deep by 45 feet (14 meters) wide with a large stone sarcophagus sitting on a raised altar in the center. Openings to similar but smaller tombs exited the room through the center of the east and west walls. More crypts lined the south wall of all three chambers.[6][8]</p>
+
+<p>The lid of the main sarcophagus was carved with the outline of a human in full armor and helm, clutching a greatsword to its chest and covered in snow, with the head to the east and feet to the west.[9] The lid could be moved easily on hidden tracks toward the feet until the coffin was two-thirds open. It contained the desecrated skeleton of a Deepwinter patriarch and nothing else. If the lid was positioned only 3 inches (7.6 centimeters) from fully closed, it allowed the entire sarcophagus to be rotated until the head of the effigy on the lid pointed north. This revealed a narrow stair going down and west for 20 feet (6.1 meters) and then turning north and widening out to a long stone stairway 10 feet (3 meters) wide that descended some 200 feet (61 meters) vertically and 500 feet (150 meters) horizontally (well under Mhalsymber's Way on the surface) to the foyer of the Dungeon of the Crypt.[10]</p>
+
+<p><b>Atmosphere</b></p>
+
+<p>Despite the fact that nothing of much value was left in the mausoleum from the original owners, it was apparent that the building got frequent but irregular traffic. The coldness of the forechamber tended to prevent any visitors or gatherings from staying more than a brief time. During the day when the City of the Dead was open to the public, entering the structure likely caused any onlookers to mutter about "tomb robbers", and exiting the building sometimes attracted the attention of curious children that wanted scary tales or trinkets. At night, the City was closed and patrolled, but this did not stop any number of clandestine organizations from entering or exiting the Dungeon of the Crypt.[1]</p>
+
+<p><b>Activities</b></p>
+
+<p>The Deepwinter Vault was often used for quick, hushed meetings, as a message drop point, a cache for temporarily hiding stolen goods, and a convenient place to dispose of a dead body.[1][9]</p>
+
+<p><b>Defences</b></p>
+<p>As of 1372 DR, the wards on the Deepwinter Vault had mostly faded away because no one renewed them. The chilling effect in the forechamber was the last breath of an ancient trap set for intruders.[1]</p>
+
+<p><b>History</b></p>
+<p>The resting place for the noble Deepwinter family was built in the Year of the Gilded Cormorant, 1129 DR when the clan had great wealth and influence. Unbeknownst to them, the surveyor they hired to place the vault was under the domination of the vampire Artor Morlin and he used his influence to get the structure built over the entrance to his extensive underground lair[1] and then killed anyone who had knowledge of it.[11]</p>
+
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Eric L. Boyd (October 2005). “Vampires of Waterdeep: Dungeon of the Crypt”. Dungeon #127 (Paizo Publishing, LLC), p. 66.</li>
+<li>2.Ed Greenwood and Steven E. Schend (July 1994). “Campaign Guide”. City of Splendors (TSR, Inc), p. 10. ISBN 0-5607-6868-1.</li>
+<li>3.Inside cover included in Ed Greenwood (1987). Waterdeep and the North. (TSR, Inc). ISBN 0-88038-490-5.</li>
+<li>4.Ed Greenwood and Steven E. Schend (July 1994). “Campaign Guide”. City of Splendors (TSR, Inc), p. 9. ISBN 0-5607-6868-1.</li>
+<li>5.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 102. ISBN 0-7869-3693-2.</li>
+<li>6.Eric L. Boyd (October 2005). “Vampires of Waterdeep: Dungeon of the Crypt”. Dungeon #127 (Paizo Publishing, LLC), p. 65.</li>
+<li>7.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), pp. 101, 104. ISBN 0-7869-3693-2.</li>
+<li>8.Jason Bulmahn, Eric L. Boyd, Keith Baker, Philip Larwood (October 2005). Dungeon #127 Map & Handout Supplement (PDF). Paizo Publishing. p. 17. Archived from the original on 2009-07-11. Retrieved on 2020-11-17.</li>
+<li>9.Eric L. Boyd (October 2005). “Vampires of Waterdeep: Dungeon of the Crypt”. Dungeon #127 (Paizo Publishing, LLC), p. 67.</li>
+<li>10.Eric L. Boyd (October 2005). “Vampires of Waterdeep: Dungeon of the Crypt”. Dungeon #127 (Paizo Publishing, LLC), p. 68.</li>
+<li>11.Eric L. Boyd (October 2005). “Vampires of Waterdeep: Dungeon of the Crypt”. Dungeon #127 (Paizo Publishing, LLC), p. 63.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin2250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65145861377715,37.88605355620704,30 -80.65146562170747,37.88594636504524,30 -80.65135100359932,37.88594177989471,30 -80.65134558917653,37.88604997727074,30 -80.65145861377715,37.88605355620704,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lords&apos; Respite</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD6</Serial>
+
+<p>The Lords' Respite was a tomb located within the City of the Dead in Waterdeep.[1]</p>
+
+<p><b>Location</b></p>
+<p>The Lords' Respite was located in the southern section of the City of the Dead.[2]</p>
+<p><b>Description</b></p>
+<p>The small tomb was made from black marble. Statues of famous Open Lords of Waterdeep faced all sides of the tomb with the exception of the western face. A door made from a mysterious material prevented anyone from seeing or passing through the opening.[1]</p>
+
+<p><b>History</b></p>
+<p>The Lords' Respite was reserved for any Lords of Waterdeep who wished to be buried there, though only a single Lord had been buried here within the past several decades as of the Year of Wild Magic, 1372 DR. The identities of all Lords buried within the tomb remained a secret.[1]</p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 102. ISBN 0-7869-3693-2.</li>
+<li>2.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 101. ISBN 0-7869-3693-2.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin2250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65108143496741,37.88319047658555,30 -80.65100829119186,37.88310627794292,30 -80.65095829489994,37.88306880701172,30 -80.65090938308886,37.88306558461822,30 -80.65085832986559,37.88310045142799,30 -80.650772461956,37.88318420979673,30 -80.65075400181462,37.88318399207465,30 -80.65073491838416,37.88319118810757,30 -80.65072429120113,37.88320935771656,30 -80.6507275801835,37.88322468713697,30 -80.65074058460669,37.88323999662392,30 -80.65076554277326,37.88324659108054,30 -80.65078625386626,37.88324194772713,30 -80.65079722425639,37.88322965627527,30 -80.65080462137843,37.88321404932051,30 -80.65080134500035,37.88320255391873,30 -80.65084709845019,37.8832300651031,30 -80.65092973628059,37.88314886935457,30 -80.6509869465843,37.88321341935614,30 -80.65096980037391,37.88321882223204,30 -80.65095655802759,37.88322958474565,30 -80.650950470656,37.88324953426239,30 -80.6509573203314,37.88326434515508,30 -80.65097775980668,37.88327554969606,30 -80.651004629886,37.88327268287497,30 -80.65102078854574,37.88326242556926,30 -80.65102785503088,37.88324477446189,30 -80.65102521873089,37.88323097732805,30 -80.65101904287127,37.88322408874204,30 -80.65108143496741,37.88319047658555,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mariners&apos; Rest</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>C</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD9</Serial>
+
+<p>Mariners' Rest was a tomb located within the City of the Dead in Waterdeep.[1]</p>
+
+<p><b>Location</b></p>
+<p>Mariners' Rest was located in the far southeast corner of the City of the Dead near a guard watch tower.[2]</p>
+<p><b>History</b></p>
+<p>As its name implied, the tomb was reserved sailors and seamen who prepaid to be interred within.[1]</p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 104. ISBN 0-7869-3693-2.</li>
+<li>Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 101. ISBN 0-7869-3693-2.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin2250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65049044677792,37.88213782678815,30 -80.65059738605994,37.88213828536493,30 -80.65066871965136,37.8820779979437,30 -80.65063599348834,37.88201581495989,30 -80.65051809488354,37.88199422990951,30 -80.65045747847579,37.8820761464216,30 -80.65049044677792,37.88213782678815,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Merchant&apos;s Rest</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>B</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD4</Serial>
+
+<p>Merchants' Rest, which was also known as the Coinscoffin, was a tomb located within the City of the Dead in Waterdeep.[1]</p>
+
+<p><b>Location</b></p>
+<p>Merchants' Rest was located in the central section of the City of the Dead near the entryway.[2]</p>
+<p><b>History</b></p>
+<p>Despite its name, Merchants' Rest was reserved for anyone, whether they were a merchant or not, who prepaid to be interred within.[1]</p>
+<p><b>Rumours & Legends</b></p>
+<p>A portal created by Anacaster was located within the tomb. The portal lead to a wooded region with burial plots marked neatly on the ground.[1]</p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 102. ISBN 0-7869-3693-2.</li>
+<li>2.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 101. ISBN 0-7869-3693-2.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin2250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65189048078446,37.88415976493818,30 -80.65191912698269,37.88415896044636,30 -80.65196046271983,37.88414759403153,30 -80.65200999239219,37.88413024525731,30 -80.65205501861546,37.88411417338672,30 -80.65209811593182,37.88409912057207,30 -80.65214056764125,37.88408330654254,30 -80.65218011026609,37.88406241576418,30 -80.65219789374524,37.88402821945734,30 -80.65219606146286,37.8840021818561,30 -80.65217991394155,37.88397984919738,30 -80.65215170688315,37.88396223435105,30 -80.65212256678102,37.88395833967333,30 -80.65209811305205,37.88396244067804,30 -80.65210515954428,37.88394769526037,30 -80.65208212505422,37.88393947265512,30 -80.65210294566249,37.88389650713571,30 -80.65202999230151,37.88387718011272,30 -80.65201141941174,37.88391785582476,30 -80.65198001590971,37.8839096455782,30 -80.65195343199916,37.88396557622487,30 -80.65189641952202,37.88394940118219,30 -80.6518812601288,37.88393646694983,30 -80.65186417966846,37.883927854426,30 -80.6518368090957,37.88392357598063,30 -80.65180141183977,37.88392794713823,30 -80.65177103542894,37.88394564858185,30 -80.65175548383822,37.88397094968255,30 -80.65175329865426,37.88399966075421,30 -80.65177059335471,37.88403075656681,30 -80.65179062982607,37.88406426182664,30 -80.65180695227752,37.88409256451494,30 -80.65182633538568,37.88412200592639,30 -80.65184763176713,37.88414382295561,30 -80.65186986129429,37.88415191977904,30 -80.65189048078446,37.88415976493818,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roads&apos; End</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>C</Class>
+<Type>Vault</Type>
+<Note></Note>
+<Serial>CD1</Serial>
+
+<p>Roads' End was a tomb located within the City of the Dead in Waterdeep.[1]</p>
+
+<p><b>Description</b></p>
+
+<p><b>Location</b></p>
+
+<p>Roads' End was located in the eastern section of the City of the Dead near the outer wall of the city.[2]</p>
+
+<p><b>History</b></p>
+
+<p>The tomb was used as a communal burial site for travelers who perished while visiting the City of Splendors. Any unclaimed possessions of the deceased were interred with their corpses, making Roads' End an appetizing target for thieves.[1]</p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 102. ISBN 0-7869-3693-2.</li>
+<li>2.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 101. ISBN 0-7869-3693-2.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin171</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65058123104475,37.88499912474058,30 -80.65069032618975,37.88499863504141,30 -80.65069177245758,37.8849428137141,30 -80.65071584466637,37.88492428227296,30 -80.65073073210148,37.88490365207967,30 -80.65073330014899,37.88487350561892,30 -80.65072204841304,37.88484112560299,30 -80.65069989800425,37.88481850228101,30 -80.65067251467357,37.88480854785207,30 -80.65064161237245,37.88479940684444,30 -80.65059946977024,37.88480733889463,30 -80.65056968922273,37.88482387266118,30 -80.65055003857252,37.88484711162197,30 -80.65053828572448,37.88487515928627,30 -80.65054610375392,37.88490652363003,30 -80.6505624602629,37.88492897844884,30 -80.65058490956879,37.88494519995905,30 -80.65058123104475,37.88499912474058,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sultlue Vault</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>B</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD14</Serial>
+
+<p>Sultlue Vault was a tomb located within the City of the Dead in Waterdeep.[1]</p>
+
+<p><b>Location</b></p>
+<p>Sultlue Vault was located in the western section of the City of the Dead.[2]</p>
+<p><b>Defenses</b></p>
+<p>The tomb was heavily warded with magic.[1]</p>
+<p><b>Inhabitants</b></p>
+<p>Sylsinssath Sultlue, a yuan-ti pureblood and prior member of House Eselemas, slumbered within the tomb which he used as a refuge. He was accompanied by a group of tainted ones and members of the Sultlue family visited on a regular basis to attend to his needs.[1] </p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 104. ISBN 0-7869-3693-2.</li>
+<li>2.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 101. ISBN 0-7869-3693-2.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin2250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65227907964525,37.88499060724671,30 -80.65216543020725,37.88499051480009,30 -80.65216492040358,37.88508720584151,30 -80.6522763339574,37.88508964859801,30 -80.65227907964525,37.88499060724671,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>The Hall of Heroes</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD8</Serial>
+
+<p>The Hall of Heroes was a tomb located within the City of the Dead in Waterdeep.[1]</p>
+
+<p><b>Location</b></p>
+<p>The Hall of Heroes was located in the southern section of the City of the Dead.[2]</p>
+<p><b>Description</b></p>
+<p>Blue marble was used for the tomb's walls. The interior was decorated with trophies of famous fallen warriors including the sword hilt of Raurlor. One of Anacaster's magical portals within the tomb lead to a large grassy plane where the dead were interred in rows.[1]</p>
+<p><b>History</b></p>
+<p>The tomb was used to honor those fighters and warriors of Waterdeep who died in battle.[1]</p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 104. ISBN 0-7869-3693-2.</li>
+<li>Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 101. ISBN 0-7869-3693-2.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin2250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65111459659208,37.88256109845045,30 -80.65111241743202,37.88243098680453,30 -80.65085242279753,37.88243348773019,30 -80.6508535329115,37.88246143858004,30 -80.65077712672972,37.88246266671021,30 -80.65077575682393,37.88231726308048,30 -80.65060993830723,37.88232099291657,30 -80.65061348929166,37.88255565797551,30 -80.65078015685725,37.88255350011771,30 -80.65078455983334,37.88252428511358,30 -80.65085461076349,37.88252217729885,30 -80.65085619047342,37.88256346995841,30 -80.65111459659208,37.88256109845045,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>The Hall of Sages</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>B</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD7</Serial>
+
+<p></p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li></li>
+<li></li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin46</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65148671062123,37.88290534208751,30 -80.65167563988936,37.88290432802515,30 -80.65167627640835,37.88281220091451,30 -80.65148830332963,37.88281226549291,30 -80.65148671062123,37.88290534208751,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>The House of the Homeless</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>C</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD2</Serial>
+
+<p>A mausoleum with a portal to a seemingly endless crypt.[1][2]</p>
+
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 102. ISBN 0-7869-3693-2.</li>
+<li>2.Christopher Perkins, James Haeck, James Introcaso, Adam Lee, Matthew Sernett (September 2018). Waterdeep: Dragon Heist. Edited by Jeremy Crawford. (Wizards of the Coast), p. 179. ISBN 978-0-7869-6625-7.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin215</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65227137129695,37.88427284981386,30 -80.65257457266485,37.8844545027662,30 -80.6526697342631,37.88435409065309,30 -80.65250994318102,37.88425984769845,30 -80.65259588448286,37.88417159215023,30 -80.6524517525403,37.88408665097984,30 -80.65227137129695,37.88427284981386,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tomb</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65068993510366,37.88632864138407,30 -80.65076674717402,37.88626206322046,30 -80.6506860772087,37.88620588310216,30 -80.65060848095787,37.88627284975485,30 -80.65068993510366,37.88632864138407,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tomb</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65048210131847,37.8859023673924,30 -80.65051498946571,37.88598352377717,30 -80.65063030438246,37.88595255482355,30 -80.6505964820504,37.88587204149005,30 -80.65048210131847,37.8859023673924,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65064059998312,37.88365665693461,30 -80.65060618826368,37.88384224548616,30 -80.65078290545691,37.88386491334695,30 -80.65081780128891,37.88367952189336,30 -80.65064059998312,37.88365665693461,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65018995851878,37.88377910832428,30 -80.65029156560388,37.88379190375012,30 -80.65030616024475,37.88370670612218,30 -80.65020639889129,37.88369527420041,30 -80.65018995851878,37.88377910832428,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65021406375158,37.88413076338636,30 -80.6504654417317,37.88425133570011,30 -80.65057000752469,37.88411486834309,30 -80.65031578723952,37.88399516717367,30 -80.65021406375158,37.88413076338636,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6502326832984,37.88436734308743,30 -80.65035034271207,37.88436852281126,30 -80.65035010946545,37.88428583432466,30 -80.65023335058389,37.8842860128275,30 -80.6502326832984,37.88436734308743,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65038260136768,37.88463364781889,30 -80.65043284402392,37.88477287839783,30 -80.65056490535274,37.88474069423259,30 -80.65051397547145,37.88460304052968,30 -80.65038260136768,37.88463364781889,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65009367846821,37.88481717231799,30 -80.65018342230508,37.88478666128945,30 -80.65014344685815,37.88471710762272,30 -80.65005379434602,37.88474634919107,30 -80.65009367846821,37.88481717231799,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65035183768725,37.88503681174634,30 -80.65043211366442,37.88498395088101,30 -80.65034552966542,37.88489953206447,30 -80.65026461114741,37.88495160414338,30 -80.65035183768725,37.88503681174634,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65006371398499,37.88519942849872,30 -80.65015870936865,37.88518201047479,30 -80.65013465320439,37.88510677100036,30 -80.65004190969225,37.88512585448753,30 -80.65006371398499,37.88519942849872,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65155284200355,37.88542538596809,30 -80.65145013403038,37.88541820853965,30 -80.65144171559163,37.88550185485862,30 -80.65154598146468,37.88550614967306,30 -80.65155284200355,37.88542538596809,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65135655646773,37.88494982200744,30 -80.65127259426365,37.88503751132267,30 -80.65136724989242,37.88509117565197,30 -80.65144583063987,37.88500371980929,30 -80.65135655646773,37.88494982200744,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65275218844097,37.88301596904023,30 -80.65287029976163,37.88297329097076,30 -80.65278481932941,37.88282516626766,30 -80.65266655156769,37.8828689907362,30 -80.65275218844097,37.88301596904023,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65264497907332,37.88326728448979,30 -80.65274152622473,37.88326652893766,30 -80.65274126386247,37.88318443218674,30 -80.6526435669534,37.88318475039772,30 -80.65264497907332,37.88326728448979,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65024936574788,37.88344807277898,30 -80.65029419493723,37.88350558010364,30 -80.65037735604407,37.88346273178379,30 -80.65033132205097,37.88340654965498,30 -80.65024936574788,37.88344807277898,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65059913130125,37.88338063455422,30 -80.65069618721309,37.88350430159028,30 -80.65079548781981,37.88345716587357,30 -80.65069993064175,37.88333254344059,30 -80.65059913130125,37.88338063455422,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65090823782354,37.88338035037835,30 -80.65094665686233,37.88346124222603,30 -80.65113732147744,37.88340610342385,30 -80.65110100673789,37.88332693182399,30 -80.65090823782354,37.88338035037835,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65076634869538,37.88270497002421,30 -80.65084124146053,37.88276840827312,30 -80.65089573228329,37.88272916950415,30 -80.6508193988404,37.88266368214405,30 -80.65076634869538,37.88270497002421,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65046286505918,37.88273245607233,30 -80.65050318449688,37.88286958717013,30 -80.65060821241333,37.8828469317727,30 -80.65057093983339,37.88271438273689,30 -80.65046286505918,37.88273245607233,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65077424520508,37.88559156256931,30 -80.65103498998739,37.88555753048422,30 -80.65101038548134,37.88543604592873,30 -80.6507515932275,37.88547022945333,30 -80.65077424520508,37.88559156256931,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65167348953122,37.88354205027325,30 -80.6518630464565,37.88347587075355,30 -80.65181869162296,37.88339445550049,30 -80.65162922984075,37.8834613038515,30 -80.65167348953122,37.88354205027325,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65127619413478,37.8830618121655,30 -80.65120947557212,37.88310961445458,30 -80.65128326383412,37.88317163405781,30 -80.65134829120392,37.88312382081966,30 -80.65127619413478,37.8830618121655,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65140961746363,37.88326397331326,30 -80.65153418763676,37.88328697356349,30 -80.65157630362391,37.88313247130596,30 -80.65145222521112,37.88311178082604,30 -80.65140961746363,37.88326397331326,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65127935029345,37.88301053799012,30 -80.65141615529875,37.8830101720337,30 -80.65141648058787,37.88286275286897,30 -80.65127955632181,37.88286193787246,30 -80.65127935029345,37.88301053799012,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65090978558561,37.88295348153081,30 -80.65100792804117,37.88295014772763,30 -80.65100244755075,37.88283943687725,30 -80.65090467808311,37.88284211779145,30 -80.65090978558561,37.88295348153081,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65061722909893,37.88299981763132,30 -80.65072345896783,37.88299782774794,30 -80.65071884356114,37.88290544134651,30 -80.65061371451674,37.88290819471475,30 -80.65061722909893,37.88299981763132,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65094721729012,37.88270044911766,30 -80.65104245634599,37.88271714018018,30 -80.65106635392542,37.88263824800126,30 -80.65096803022867,37.88262209265596,30 -80.65094721729012,37.88270044911766,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65099134764432,37.88233883114725,30 -80.65107681414943,37.88232939083903,30 -80.65105751883605,37.88222118315763,30 -80.65097396303435,37.88223119703563,30 -80.65099134764432,37.88233883114725,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65139258872193,37.88240149139161,30 -80.65146655192272,37.88233990445338,30 -80.6513943998943,37.88228670044828,30 -80.65132180250404,37.88235064881241,30 -80.65139258872193,37.88240149139161,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65135591826126,37.88255042725255,30 -80.65145175400973,37.88253296627057,30 -80.65142799739756,37.88243850843731,30 -80.65132801682144,37.88245605955101,30 -80.65135591826126,37.88255042725255,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65171206346247,37.88254108607337,30 -80.65158097802306,37.88254009302165,30 -80.65158132631264,37.8826081645958,30 -80.6517115269353,37.8826071537197,30 -80.65171206346247,37.88254108607337,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65199985394884,37.88258522147557,30 -80.65191147012808,37.88258561907627,30 -80.65191658328301,37.88267962327867,30 -80.65199868161444,37.88267787281693,30 -80.65199985394884,37.88258522147557,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65202650883235,37.88276917363018,30 -80.65201411516369,37.8827502099725,30 -80.65199473737918,37.882735560892,30 -80.6519730069363,37.88273286643409,30 -80.65195059158913,37.88273456218538,30 -80.65193239791124,37.88274644739829,30 -80.65191737923897,37.8827624483064,30 -80.65191564988257,37.88278213387396,30 -80.65192512496874,37.88280099720706,30 -80.65194787499836,37.88281562196293,30 -80.65197981424286,37.88281846350159,30 -80.65200939097751,37.88280818907179,30 -80.65202475771189,37.8827901389824,30 -80.65202650883235,37.88276917363018,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65124676635156,37.88608611555016,30 -80.65119989094525,37.88587540060433,30 -80.65105274009343,37.88589446909312,30 -80.65109882809871,37.88610583837087,30 -80.65124676635156,37.88608611555016,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65125601590243,37.88557526216399,0 -80.65118245970299,37.88564182086325,0 -80.6511842045922,37.88565460294768,0 -80.65125410974183,37.88570627359577,0 -80.65127026105191,37.88570404198954,0 -80.651345982541,37.88563741362741,0 -80.65125601590243,37.88557526216399,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65125504283155,37.88557414578028,30 -80.65118182945895,37.8856397377882,30 -80.65118119286595,37.88564905496854,30 -80.65118657802684,37.88565920676319,30 -80.65124439735278,37.88570113221034,30 -80.65125767103338,37.88570596038058,30 -80.65127055812198,37.88570344560954,30 -80.65134518005664,37.88563667265689,30 -80.65125504283155,37.88557414578028,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65147530966141,37.88559510587024,30 -80.65138446995107,37.8856013288337,30 -80.65139243538191,37.88568395070975,30 -80.6514964313175,37.8856779985674,30 -80.65147530966141,37.88559510587024,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65189535520769,37.88544489553823,30 -80.65179983667821,37.88544849601781,30 -80.65180630446876,37.88553012237076,30 -80.65190179699668,37.88552505595782,30 -80.65189535520769,37.88544489553823,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65111613545376,37.88524832367096,30 -80.65101849088583,37.88536017802416,30 -80.65124957542321,37.88548517055995,30 -80.65134710586581,37.88537380170509,30 -80.65111613545376,37.88524832367096,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65170876219656,37.88502449942632,30 -80.65158279105542,37.88510312492851,30 -80.65172488643483,37.88524528611262,30 -80.65185163677037,37.88516512425592,30 -80.65170876219656,37.88502449942632,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65252190937454,37.88457977497349,30 -80.652360033354,37.88454655003375,30 -80.65228780342318,37.88476186575021,30 -80.65245202771249,37.88479519437732,30 -80.65252190937454,37.88457977497349,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#msn_ylw-pushpin250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65234932255152,37.88362315735939,30 -80.65226130360597,37.88375765819045,30 -80.65235704318042,37.88379661604232,30 -80.65244692458919,37.88366351176406,30 -80.65234932255152,37.88362315735939,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65268776675819,37.8836583723071,30 -80.65261888322757,37.88365403902549,30 -80.65261286819936,37.88372458822104,30 -80.65268148699414,37.883728471015,30 -80.65268776675819,37.8836583723071,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65271556384771,37.8834908938384,30 -80.65267855826433,37.88341820197751,30 -80.65261409583005,37.88343903404482,30 -80.65265247214124,37.88351093450652,30 -80.65271556384771,37.8834908938384,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65259424712893,37.88279377683911,30 -80.65256504795775,37.88273872274684,30 -80.6525012287002,37.88276123882769,30 -80.65253405473152,37.88281634626856,30 -80.65259424712893,37.88279377683911,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65244585614448,37.88314375901584,30 -80.65247072543285,37.88306643879339,30 -80.65237294489421,37.88304726091609,30 -80.65234636933269,37.88312485083322,30 -80.65244585614448,37.88314375901584,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65224619164067,37.88280472636156,30 -80.65232300897463,37.88280649927842,30 -80.6523220412561,37.88274545805169,30 -80.65224887192394,37.88274504411788,30 -80.65224619164067,37.88280472636156,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65225083110286,37.88292607598848,30 -80.65229400896622,37.88300108156227,30 -80.6523860373858,37.88296717829658,30 -80.65234138011459,37.88289232705196,30 -80.65225083110286,37.88292607598848,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65044373589654,37.88317849378834,30 -80.65055965797821,37.88307524825336,30 -80.65049344015964,37.88302886430432,30 -80.65037914148432,37.88313338446329,30 -80.65044373589654,37.88317849378834,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65125171687784,37.88356401549064,30 -80.65127536099189,37.88349121069412,30 -80.65118051074609,37.88347138189459,30 -80.65115576300741,37.88354731825463,30 -80.65125171687784,37.88356401549064,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65168534839445,37.88463636663895,30 -80.65149011748929,37.88482857355448,30 -80.65148647671613,37.88483498109331,30 -80.65149215245165,37.88484260856234,30 -80.65162642143034,37.884927442303,30 -80.65163865342599,37.88492986438848,30 -80.65164712383149,37.88492499757709,30 -80.65184082868272,37.88473304460215,30 -80.65184295712261,37.88472783420166,30 -80.65183851704722,37.88472284635831,30 -80.65170135935283,37.88463610285741,30 -80.65169187285814,37.88463352399165,30 -80.65168534839445,37.88463636663895,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6520506475695,37.88337167807571,30 -80.65214521651885,37.88336755728044,30 -80.65213994901249,37.88330292143507,30 -80.65204795609483,37.88330643614577,30 -80.6520506475695,37.88337167807571,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65182870065173,37.88311246937599,30 -80.65197574758211,37.88311214178202,30 -80.65197510638419,37.88294073615761,30 -80.65182800582645,37.88294104897298,30 -80.65182870065173,37.88311246937599,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6517142522973,37.88322795115898,30 -80.65178998088408,37.88318233918525,30 -80.65173112325911,37.88312346645747,30 -80.65165572698346,37.88316781885376,30 -80.6517142522973,37.88322795115898,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65202797426481,37.88357297653034,30 -80.65221940413856,37.88350703359839,30 -80.65217256421748,37.88342402927527,30 -80.65198066839093,37.88349130178042,30 -80.65202797426481,37.88357297653034,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65174544924206,37.88364040225757,30 -80.65169131154076,37.88369369664295,30 -80.65177383732143,37.8837438695323,30 -80.65182562887061,37.88369134151545,30 -80.65174544924206,37.88364040225757,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65147954963896,37.88437212224885,30 -80.65154207942344,37.88429311067213,30 -80.65154289781627,37.88428431188919,30 -80.65153636460916,37.88427568284629,30 -80.65145113819352,37.88423354257858,30 -80.65143666139151,37.88423242071588,30 -80.65142533212179,37.88424017865857,30 -80.65136729307082,37.88431485522865,30 -80.65136319340725,37.88432677339828,30 -80.65137202774281,37.88433420336221,30 -80.65145776167064,37.88437625241419,30 -80.65146977906922,37.88437630266598,30 -80.65147954963896,37.88437212224885,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65097174055903,37.88624632110354,30 -80.65084164083665,37.88624548754277,30 -80.65084188804229,37.88634267482737,30 -80.65097054666258,37.88634045514258,30 -80.65097174055903,37.88624632110354,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65034652908533,37.88576169608595,30 -80.65023555594817,37.88582064969668,30 -80.6503195375782,37.88591722312986,30 -80.65043011917358,37.88585915306734,30 -80.65034652908533,37.88576169608595,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.64990154211642,37.88588326284736,30 -80.64989801973611,37.88597218946089,30 -80.65000281940934,37.88597251150483,30 -80.65000256269693,37.88588502284657,30 -80.64990154211642,37.88588326284736,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65048164444185,37.88569689251681,30 -80.65048221119631,37.88579662899741,30 -80.65064420859501,37.88579526355955,30 -80.65065717453939,37.88579043093274,30 -80.65066056373932,37.88577906117678,30 -80.65066135609665,37.88571093792306,30 -80.6506550627314,37.8857008023956,30 -80.65064223684402,37.885697074094,30 -80.65048164444185,37.88569689251681,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65045504778979,37.88548164123613,30 -80.65045718711114,37.88561167436808,30 -80.65060698530462,37.885612078412,30 -80.65060551705928,37.8854813559462,30 -80.65045504778979,37.88548164123613,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65030317061851,37.88558930154932,30 -80.6501630712268,37.88562564375447,30 -80.65020911622946,37.88573420905314,30 -80.65034790903026,37.88569662033168,30 -80.65030317061851,37.88558930154932,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.64981424510894,37.88561932409252,30 -80.64973742127276,37.88567289301263,30 -80.64979263005925,37.88572501937286,30 -80.64987035094184,37.88567260684056,30 -80.64981424510894,37.88561932409252,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.64996322307555,37.88548245847805,30 -80.65018362833381,37.88528128205548,30 -80.65020208377929,37.88527892200275,30 -80.65021715547954,37.8852714103679,30 -80.65022747036883,37.88525594745366,30 -80.65022904563682,37.88524167249565,30 -80.65022057957081,37.88522928588732,30 -80.65020324208587,37.8852202876194,30 -80.65018316929107,37.88521991881107,30 -80.650164337934,37.88522746107251,30 -80.65015496507077,37.88523977644712,30 -80.65015275378153,37.88525095423899,30 -80.65015461593939,37.88526268264367,30 -80.65014425367224,37.88526201329791,30 -80.65011543535476,37.88526372042456,30 -80.65004935731557,37.88521658308219,30 -80.64986495584223,37.88538667862194,30 -80.64993440289798,37.88543089869255,30 -80.64993182211776,37.88546199097949,30 -80.64990651782556,37.8854669660403,30 -80.64988960894553,37.88548282221062,30 -80.64988722370303,37.88549678094378,30 -80.64989253310213,37.88550984213249,30 -80.64991178305118,37.88552062208465,30 -80.64993038357443,37.88552249981404,30 -80.6499533710307,37.88551350426025,30 -80.64996152868927,37.88549926143251,30 -80.64996322307555,37.88548245847805,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65067383270308,37.88511452201336,30 -80.65048633287297,37.88511437159669,30 -80.65048685950616,37.88522406579571,30 -80.65067350750499,37.88522492764614,30 -80.65067383270308,37.88511452201336,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65085578645331,37.88483999229339,30 -80.65083105607087,37.88490858645265,30 -80.65092569969704,37.88492923231777,30 -80.65095162993005,37.88486189804193,30 -80.65085578645331,37.88483999229339,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65073454432489,37.88467882450716,30 -80.65066143134641,37.88472931658465,30 -80.6506567737689,37.8847353000082,30 -80.65065961300674,37.88474127511697,30 -80.65075866260727,37.88482903947327,30 -80.65076670309898,37.88483286430748,30 -80.65077491069287,37.88482861052108,30 -80.65084791549063,37.88477562132893,30 -80.65084990009402,37.88477052017766,30 -80.65084758826852,37.88476587959551,30 -80.65074779220835,37.88467859419762,30 -80.65074172132991,37.88467557356891,30 -80.65073454432489,37.88467882450716,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin1860</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65127952178594,37.88447812538174,30 -80.65109677037407,37.88441222606095,30 -80.6510410516924,37.88450696862803,30 -80.65102916540488,37.88451298082803,30 -80.65101285471252,37.88451010891877,30 -80.65100065455866,37.88451362052022,30 -80.65098650191746,37.88451812535614,30 -80.65097875531869,37.88453048601789,30 -80.65098330411581,37.88454772846588,30 -80.65099551033643,37.88455935078944,30 -80.6510179630307,37.88456094872678,30 -80.65118723131795,37.8846207939343,30 -80.65119905176111,37.88462758381299,30 -80.65120969413147,37.88463361971507,30 -80.6512248676936,37.88463336383443,30 -80.6512406526406,37.88462964920108,30 -80.65124982867414,37.88461787216722,30 -80.65125228612526,37.88460487823227,30 -80.65124528187673,37.88459430458807,30 -80.65123302462868,37.88458499487008,30 -80.65122637649485,37.88456930905914,30 -80.65127952178594,37.88447812538174,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#m_ylw-pushpin186</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65112382234435,37.88407625042159,30 -80.65090183312039,37.88414211897036,30 -80.65100283285857,37.88435757023019,30 -80.65122445590164,37.88429813607626,30 -80.65112382234435,37.88407625042159,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<styleUrl>#msn_ylw-pushpin48</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65134153662895,37.88363844615371,30 -80.65135421195558,37.88362756733226,30 -80.6513643634558,37.88361340800258,30 -80.65136186010722,37.883598916823,30 -80.65135102159996,37.88358270025818,30 -80.65132444001951,37.88357778093275,30 -80.65129959485384,37.88358503006797,30 -80.65128705557981,37.88359962599478,30 -80.65128740444266,37.88361770666895,30 -80.65129937145062,37.88363193040961,30 -80.65131885988927,37.8836392154211,30 -80.65134153662895,37.88363844615371,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Warriors&apos; Monument</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>B</Class>
+<Type>Tomb</Type>
+<Note></Note>
+<Serial>CD5</Serial>
+
+<p>Warriors' Monument,[1][2][3][4] also occasionally known as the Warriors of Waterdeep,[5] was a monument in Waterdeep's City of the Dead meant to honor all those who ever fought to defend the city.[1][2][3][4] </p>
+
+<p><b>Description</b></p>
+<p>Carved of stone and standing roughly 60 feet (18 meters) tall,[1][2][3][4][6] Warriors' Monument was one of the tallest structures in the City of the Dead.[6] In addition to being an intricate statue, the monument acted as a fountain, with water gushing out from wounds on its stone figures.[4]</p>
+<p>It depicted a group of warriors in a circular formation,[1][2][3][4] two men and three women,[2][3] striking down hordes of enemies that were falling backward and outward from their circle. These enemies included barbarians, hobgoblins, orcs, trolls,[1][2][3][4] and bugbears.[6] A later addition to the monument was a warrior riding upon a griffin, high above the other stone figures, and spearing[2][3][4] a skeletal knight with a breastplate bearing the symbol of Myrkul.[4]</p>
+<p><b>History</b></p>
+<p>In 1361 DR,[2] three years following the event known as the Time of Troubles, Warriors' Monument was renovated and magically altered to feature a minion of Myrkul.[2][3] This addition was meant to commemorate those who perished fighting against the death god's invasion of Waterdeep.[2]</p>
+<p><b>Appendix</b></p>
+<p><b>References</b></p>
+
+<p><ul>
+<li>1.Ed Greenwood (1987). Waterdeep and the North. (TSR, Inc), p. 24. ISBN 0-88038-490-5.</li>
+<li>2.Ed Greenwood and Steven E. Schend (July 1994). “Campaign Guide”. City of Splendors (TSR, Inc), p. 57. ISBN 0-5607-6868-1.</li>
+<li>3.Eric L. Boyd (June 2005). City of Splendors: Waterdeep. (Wizards of the Coast), p. 102. ISBN 0-7869-3693-2.</li>
+<li>4.Christopher Perkins, James Haeck, James Introcaso, Adam Lee, Matthew Sernett (September 2018). Waterdeep: Dragon Heist. Edited by Jeremy Crawford. (Wizards of the Coast), p. 179. ISBN 978-0-7869-6625-7.</li>
+<li>5.Ed Greenwood and Jeff Grubb (September 1988). City System. Edited by Karen Boomgarden. (TSR, Inc.), p. 12. ISBN 0-8803-8600-2.</li>
+<li>6.Allen Varney (May 1989). Knight of the Living Dead. (TSR, Inc.), p. 12. ISBN 978-0880385985.</li>
+</ul></p>]]></description>
+			<styleUrl>#msn_ylw-pushpin2250</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65119504179005,37.88377185507326,30 -80.65119510794354,37.88404861372211,30 -80.65146989440161,37.88405059876349,30 -80.65146748087776,37.88377418531515,30 -80.65119504179005,37.88377185507326,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
